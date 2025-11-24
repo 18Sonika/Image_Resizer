@@ -1,0 +1,16 @@
+Skipped (already processed): black rose.jpg
+Skipped (already processed): image.jpg
+Error processing black rose.jpg: 'charmap' codec can't encode character '\u2192' in position 26: character maps to <undefined>
+Error processing image.jpg: 'charmap' codec can't encode character '\u2192' in position 21: character maps to <undefined>
+Processed: black rose.jpg -> black rose.jpg
+Processed: image.jpg -> image.jpg
+
+[OK] All images processed successfully!
+Skipped (already processed): black rose.jpg
+Skipped (already processed): image.jpg
+
+[OK] All images processed successfully!
+Processed: black rose.jpg -> black rose.webp
+Processed: image.jpg -> image.webp
+
+[OK] All images processed successfully!
